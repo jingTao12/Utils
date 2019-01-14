@@ -1,3 +1,6 @@
+import android.util.Log;
+
+
 public class LogUtils {
     public static final boolean isDebug = true;//可以在application的onCreate（）中初始化
     private static String TAG = "ida";
